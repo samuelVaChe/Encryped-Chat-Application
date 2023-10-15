@@ -1,2 +1,2 @@
 # Encryped-Chat-Application
-Secure chat application using Fernet encryption.
+In this project, I've taken a significant step forward in enhancing security and efficiency. I transitioned from the previously used AES-256-CBC encryption to the more advanced and secure Fernet encryption, which employs AES-256-GCM. Additionally, I've improved key management by generating and securely storing keys in an 'encryption_key.key' file for each transmission. While this project may not revolutionize the field, it represents a meaningful evolution from my previous endeavors, reflecting my commitment to staying updated with the latest advancements in data security.
